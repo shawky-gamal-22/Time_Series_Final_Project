@@ -70,4 +70,3 @@ The Bitcoin market is characterized by extreme volatility and non-linear trends.
 
 ## 📊 Dataset Link
 Testing was performed using the [Bitcoin Historical Data (2014-2024)](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data) dataset from Kaggle.
-
