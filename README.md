@@ -71,8 +71,3 @@ The Bitcoin market is characterized by extreme volatility and non-linear trends.
 ## 📊 Dataset Link
 Testing was performed using the [Bitcoin Historical Data (2014-2024)](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data) dataset from Kaggle.
 
-## 📜 Evaluation Rubric Compliance
--   ✅ **Data Handling**: Correctly parses date formats and handles USD price columns from various Kaggle sources.
--   ✅ **Interactive Logic**: Sidebar changes (Horizon/Confidence) update the output and charts dynamically.
--   ✅ **Visual Clarity**: High-contrast Plotly chart with clear distinctions between past actuals and future projections.
--   ✅ **Error Handling**: Provides feedback for missing trading days and file parsing errors.
