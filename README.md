@@ -69,4 +69,4 @@ The Bitcoin market is characterized by extreme volatility and non-linear trends.
 4.  **Uncertainty Modeling**: We use dynamic Z-scores (e.g., 1.96 for 95% CI) based on the standard deviation of historical residuals to visualize the uncertainty zone.
 
 ## 📊 Dataset Link
-Testing was performed using the [Bitcoin Historical Data (2014-2024)](https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data) dataset from Kaggle.
+Testing was performed using the [Bitcoin Historical Data (2014-2024) with name BTCUSD_1m_Binance](https://www.kaggle.com/datasets/imranbukhari/comprehensive-btcusd-1m-data) dataset from Kaggle.
