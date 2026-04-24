@@ -37,6 +37,10 @@ if uploaded_file is not None:
                 "Select Price Value (Target):", df.columns, index=4
             )
 
+        if date_col != "Open time":
+            st.error("Please select the correct timestamp column ('Open time').")
+            st.stop()
+
         new_df = df[[date_col, price_col]].copy()
 
         new_df[date_col] = pd.to_datetime(new_df[date_col])
